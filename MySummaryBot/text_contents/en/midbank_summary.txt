@@ -1,0 +1,3 @@
+*.proxy","@version":"1.0.0","result":{"srcLangType":"ko","tarLangType":"en","translatedText":"Summary\n\t\t\t\t\tThe bank that forms the pinnacle of the banking system and becomes the center of a country's monetary system
+*.The central bank exclusively issues banknotes, deposits of reserve funds from commercial banks, handles treasury payments, and implements financial policies, which are sometimes referred to as issuing banks, banks of banks, government banks, and financial policy banks
+*.Since the late 1980s, countries have been revising and pushing for the Central Bank Act to strengthen the independence of central banks

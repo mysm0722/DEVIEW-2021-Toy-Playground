@@ -1,0 +1,28 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.2",
+    "crypto-js": "^3.1.9-1",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "fs-extra": "^5.0.0",
+    "html-to-text": "^7.0.0",
+    "iconv": "^2.3.0",
+    "masonry-layout": "^4.2.2",
+    "python-shell": "^0.5.0",
+    "querystring": "^0.2.0",
+    "tesseract.js": "^2.1.4",
+    "wolfram": "^0.3.4",
+    "wolfram-alpha": "^0.6.0",
+    "wolfram-alpha-api": "https://products.wolframalpha.com/api/libraries/javascript/wolfram-alpha-api-1.0.0-rc.1.tgz"
+  }
+}
